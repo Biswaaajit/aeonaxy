@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.circle {
+  fill: none;
+  stroke: #f1b134;
+}
