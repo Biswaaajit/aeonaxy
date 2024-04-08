@@ -2,7 +2,7 @@
 
 function Question3({ dispatch }) {
   return (
-    <div className="mt-16 text-center px-3 pb-8 transition-all w-full">
+    <div className="mt-16 text-center px-3 pb-8 transition-all ">
       <div className="flex flex-col items-center gap-0 md:flex-row md:gap-20 transition-all mb-8">
         <img
           src="pulley.png"

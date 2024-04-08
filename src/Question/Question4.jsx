@@ -14,7 +14,7 @@ function Question4({ page, dispatch }) {
     });
   }, []);
   return (
-    <div id="q4" className="mt-8  space-y-6 px-4 pb-8 text-center w-full">
+    <div id="q4" className="mt-8  space-y-6 px-4 pb-8 text-center ">
       <p className="text-center text-2xl sm:text-3xl font-bold">
         What is your math comfort level?
       </p>

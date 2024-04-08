@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 function Question5() {
   const navigate = useNavigate();
   return (
-    <div className="mt-16 text-center px-3 transition-all w-full">
+    <div className="mt-16 text-center px-3 transition-all ">
       <div className="flex flex-col items-center gap-0 md:flex-row md:gap-20 transition-all mb-8">
         <img
           src="cheerleader.png"

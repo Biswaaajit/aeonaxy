@@ -15,7 +15,7 @@ function Question2({ page, dispatch }) {
     });
   }, []);
   return (
-    <div id="q2" className="mt-8 text-center space-y-6 px-4 pb-8 w-full">
+    <div id="q2" className="mt-8 text-center space-y-6 px-4 pb-8 ">
       <p className="text-center text-2xl sm:text-3xl font-bold">
         Which are you most interested in?
       </p>
